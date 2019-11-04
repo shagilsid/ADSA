@@ -1,5 +1,5 @@
 package shortestPath;
-
+//
 public class Faster {
 	static int inf=999;
 	public static void main(String[] args) {

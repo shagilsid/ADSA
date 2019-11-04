@@ -1,5 +1,5 @@
 package shortestPath;
-
+//
 public class ExtendedShortest {
 	public static int inf=9999;
 	public int[][] getExtended(int[][] mat, int n) {
